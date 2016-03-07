@@ -7,3 +7,7 @@ http://leafsnap.com/
 http://arxiv.org/pdf/1506.08425.pdf
 
 https://archive.ics.uci.edu/ml/machine-learning-databases/00288/
+
+http://www.imageclef.org/2016
+
+https://hal.inria.fr/hal-01182782/document
